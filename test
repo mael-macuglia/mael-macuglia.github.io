@@ -1,1 +1,3 @@
-test
+commands: 
+
+bundle exec jekyll serve --livereload --verbose
