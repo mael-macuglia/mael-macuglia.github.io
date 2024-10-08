@@ -13,9 +13,6 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -23,5 +20,13 @@ main:
   - title: "CV"
     url: /files/cv.pdf
     
+  - title: "Portfolio"
+    url: /portfolio/
+
+  # Add this new entry
+  - title: "Free Time"
+    url: /freetime/
+
+
   # - title: "Guide"
   #   url: /markdown/
