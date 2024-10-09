@@ -20,8 +20,8 @@ main:
   - title: "CV"
     url: /files/cv.pdf
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects & Highlights"
+    url: /projects-highlights/
 
   # Add this new entry
   - title: "Free Time"

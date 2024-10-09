@@ -2,7 +2,7 @@
 layout: archive
 title: "Free Time"
 permalink: /freetime/
-author_profile: true
+author_profile: false
 ---
 
 <div style="text-align: center; font-style: italic; margin: 20px 0;">
