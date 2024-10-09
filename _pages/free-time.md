@@ -5,9 +5,9 @@ permalink: /freetime/
 author_profile: false
 ---
 
-<div style="text-align: center; font-style: italic; margin: 20px 0;">
+<!-- <div style="text-align: center; font-style: italic; margin: 20px 0;">
   "I like Math, but also other things" - me
-</div>
+</div> -->
 
 ## Ski & Freeride  :skier: :mountain: 
 
@@ -36,7 +36,7 @@ A few years ago, I discovered what I consider an equivalent to freeride but on a
 
 
 
-<div style="text-align: center; font-style: italic; margin: 20px 0;">
+<!-- <div style="text-align: center; font-style: italic; margin: 20px 0;">
   - my approach - 
 </div>
 
@@ -52,9 +52,9 @@ I believe in seizing the moment: check on Surfline for the best conditions, spon
       🇲🇦, <em>Cap Sim</em>
     </div>
   </div>
-</div>
+</div> -->
 
 
 ## Training :weight_lifting_man:
 
-A decade ago, a serious injury nearly cost me my leg, sparking a transformative journey in physical wellness. The lengthy recovery process taught me the invaluable lesson that we only have one body, and caring for it is paramount. This experience ignited a strong interest in training, not just for recovery, but for overall performance and injury prevention in my favorite sports. I've learned that training is key to bodily freedom, allowing us to fully engage in life's adventures. I'm fortunate to have my brother, a personal trainer with extensive knowledge and an inspiring training philosophy, guiding me on this path. His influence has shown me that effective training is as much about mindset and consistency as it is about physical exertion, contributing to a more balanced and fulfilling lifestyle.
+<!-- A decade ago, a serious injury nearly cost me my leg, sparking a transformative journey in physical wellness. The lengthy recovery process taught me the invaluable lesson that we only have one body, and caring for it is paramount. This experience ignited a strong interest in training, not just for recovery, but for overall performance and injury prevention in my favorite sports. I've learned that training is key to bodily freedom, allowing us to fully engage in life's adventures. I'm fortunate to have my brother, a personal trainer with extensive knowledge and an inspiring training philosophy, guiding me on this path. His influence has shown me that effective training is as much about mindset and consistency as it is about physical exertion, contributing to a more balanced and fulfilling lifestyle. -->
