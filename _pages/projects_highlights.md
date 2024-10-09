@@ -88,7 +88,7 @@ author_profile: false
 
 
 
-## Script & Other Content:
+## Lecture Notes & Other Content:
 
 
 <div style="max-width: 800px; margin: 20px auto; font-family: Arial, sans-serif; background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
