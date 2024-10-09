@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<center>Hi, I'm Mael 🤓 !</center> "
+title: "<center>Hi, I'm Mael! </center> "
 author_profile: true
 redirect_from: 
   - /about/
