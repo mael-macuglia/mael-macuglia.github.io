@@ -11,7 +11,10 @@ author_profile: false
 
 ## Ski & Freeride  :skier: :mountain: 
 
-From November to April, the mountains of Nendaz in Valais become my second home. I spend most of my free time during these months embracing the thrill of skiing and freeriding in this beautiful Alpine setting.
+
+Come winter, Nendaz becomes my second home. I'm there from November through April, making the most of every powder day and freeride opportunity in those beautiful Valais mountains.
+
+<!-- From November to April, the mountains of Nendaz in Valais become my second home. I spend most of my free time during these months embracing the thrill of skiing and freeriding in this beautiful Alpine setting. -->
 
 
 
@@ -19,14 +22,16 @@ From November to April, the mountains of Nendaz in Valais become my second home.
   <div style="text-align: center; font-size: 1.2em; color: #333;">
     <h3 style="margin-top: 0; margin-bottom: 20px; color: #2c3e50;">A Perfect Day in Nendaz with Friends</h3>
     <div style="margin: 20px 0;">
-       :coffee: + :croissant: → <strong><a href="https://panoramik.ch/panorama/le-mont-gond-nendaz-freeride/">Mont-Gon</a></strong> → <strong><a href="https://www.panoramik.ch/virtualtour/aerial/4vallees/mont-gele/">Mont-Gelé</a></strong> → <strong><a href="https://www.panoramik.ch/virtualtour/aerial/dent_de_nendaz/winter/">Dent de Nendaz</a></strong> → :beer:
+       :coffee: + :croissant: → <strong><a href="https://panoramik.ch/panorama/le-mont-gond-nendaz-freeride/">Mont-Gond</a></strong> → <strong><a href="https://www.panoramik.ch/virtualtour/aerial/4vallees/mont-gele/">Mont-Gelé</a></strong> → <strong><a href="https://www.panoramik.ch/virtualtour/aerial/dent_de_nendaz/winter/">Dent de Nendaz</a></strong> → :beer:
     </div>
   </div>
 </div>
 
 ## Surfing 🏄‍♂️
 
-A few years ago, I discovered what I consider an equivalent to freeride but on a different terrain: surfing. This exhilarating sport has become a passion that perfectly complements my love for skiing and freeriding.
+
+A while back, I got into surfing. It's like freeriding, but on water. Now I'm hooked - it's the perfect summer complement to my winter skiing adventures.
+<!-- A few years ago, I discovered what I consider an equivalent to freeride but on a different terrain: surfing. This exhilarating sport has become a passion that perfectly complements my love for skiing and freeriding. -->
 
 <!-- ### What I Love About Surfing
 
