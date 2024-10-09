@@ -34,7 +34,12 @@ A few years ago, I discovered what I consider an equivalent to freeride but on a
 - **Challenge**: Each wave presents a unique challenge, requiring quick thinking and adaptability.
 - **Travel**: Surfing has taken me to beautiful coastal destinations around the world. -->
 
-### My Approach
+
+
+<div style="text-align: center; font-style: italic; margin: 20px 0;">
+  - my approach - 
+</div>
+
 I believe in seizing the moment: check on Surfline for the best conditions, spontaneously book with a friend, and go catch as many waves as possible.
 
 
