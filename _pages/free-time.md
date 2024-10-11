@@ -9,28 +9,28 @@ author_profile: false
   "I like Math, but also other things" - me
 </div> -->
 
-## Ski & Freeride  :skier: :mountain: 
+## Ski & Freeride  :skier:  
 
 
-Come winter, Nendaz becomes my second home. I'm there from November through April, making the most of every powder day and freeride opportunity in those beautiful Valais mountains.
+<!-- Come winter, Nendaz becomes my second home. I'm there from November through April, making the most of every powder day and freeride opportunity in those beautiful Valais mountains. -->
 
 <!-- From November to April, the mountains of Nendaz in Valais become my second home. I spend most of my free time during these months embracing the thrill of skiing and freeriding in this beautiful Alpine setting. -->
 
 
 
-<div style="margin: 30px 0; padding: 20px; background-color: #f8f8f8; border-radius: 10px;">
+<!-- <div style="margin: 30px 0; padding: 20px; background-color: #f8f8f8; border-radius: 10px;">
   <div style="text-align: center; font-size: 1.2em; color: #333;">
     <h3 style="margin-top: 0; margin-bottom: 20px; color: #2c3e50;">A Perfect Day in Nendaz with Friends</h3>
     <div style="margin: 20px 0;">
        :coffee: + :croissant: → <strong><a href="https://panoramik.ch/panorama/le-mont-gond-nendaz-freeride/">Mont-Gond</a></strong> → <strong><a href="https://www.panoramik.ch/virtualtour/aerial/4vallees/mont-gele/">Mont-Gelé</a></strong> → <strong><a href="https://www.panoramik.ch/virtualtour/aerial/dent_de_nendaz/winter/">Dent de Nendaz</a></strong> → :beer:
     </div>
   </div>
-</div>
+</div> -->
 
 ## Surfing 🏄‍♂️
 
-
-A while back, I got into surfing. It's like freeriding, but on water. Now I'm hooked - it's the perfect summer complement to my winter skiing adventures.
+<!-- 
+A while back, I got into surfing. It's like freeriding, but on water. Now I'm hooked - it's the perfect summer complement to my winter skiing adventures. -->
 <!-- A few years ago, I discovered what I consider an equivalent to freeride but on a different terrain: surfing. This exhilarating sport has become a passion that perfectly complements my love for skiing and freeriding. -->
 
 <!-- ### What I Love About Surfing
@@ -60,6 +60,6 @@ I believe in seizing the moment: check on Surfline for the best conditions, spon
 </div> -->
 
 
-## Training :weight_lifting_man:
+<!-- ## Training :weight_lifting_man: -->
 
 <!-- A decade ago, a serious injury nearly cost me my leg, sparking a transformative journey in physical wellness. The lengthy recovery process taught me the invaluable lesson that we only have one body, and caring for it is paramount. This experience ignited a strong interest in training, not just for recovery, but for overall performance and injury prevention in my favorite sports. I've learned that training is key to bodily freedom, allowing us to fully engage in life's adventures. I'm fortunate to have my brother, a personal trainer with extensive knowledge and an inspiring training philosophy, guiding me on this path. His influence has shown me that effective training is as much about mindset and consistency as it is about physical exertion, contributing to a more balanced and fulfilling lifestyle. -->

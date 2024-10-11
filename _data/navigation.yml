@@ -24,8 +24,8 @@ main:
     url: /projects-highlights/
 
   # Add this new entry
-  # - title: "Free Time"
-  #   url: /freetime/
+  - title: "Free Time"
+    url: /freetime/
 
 
   # - title: "Guide"
